@@ -1,0 +1,17 @@
+.primary-button {
+  background-color: #ecc504;
+  padding: 2rem;
+  margin: 0 1rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  transform: skew(-05deg);
+  font-size: 1.5rem;
+  border-radius: 10px;
+  cursor: pointer;
+  color: #fff;
+  border: 2px solid black;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
